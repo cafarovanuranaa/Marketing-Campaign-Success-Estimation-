@@ -1,4 +1,5 @@
 Overview
+
 This project predicts the success of a marketing campaign (response) using customer and campaign data. A Random Forest Classifier is used with preprocessing, model training, evaluation, and feature importance analysis. The model has been deployed and can be applied to new data with the same preprocessing.
 
 Workflow / Steps
